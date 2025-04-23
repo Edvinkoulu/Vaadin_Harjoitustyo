@@ -1,4 +1,4 @@
-Sivulla voi selata ja hallita henkilöitä sek niihin liittyviä mittaustuloksia. Tiedot on tietokannassa, josta sovellus hakee tiedot automaattisesti.
+Sivulla voi selata ja hallita henkilöitä sekä niihin liittyviä mittaustuloksia. Tiedot on tietokannassa, josta sovellus hakee tiedot automaattisesti.
 
 
 Sovelluksen käyttöohje:
