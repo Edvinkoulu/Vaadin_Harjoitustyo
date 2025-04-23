@@ -1,0 +1,20 @@
+
+.centered-content {
+  margin: 0 auto;
+  max-width: 250px;
+}
+/*header taustaväri ja padding*/
+header{
+  background-color: #e0f7fa;
+  padding: 20px;
+  width:100%
+}
+/* Example: the style is applied only to the textfields which have the `bordered` class name. */
+vaadin-text-field.bordered::part(input-field) {
+  box-shadow: inset 0 0 0 1px var(--lumo-contrast-30pct);
+  background-color: var(--lumo-base-color);
+}
+.content-area {
+  padding: 20px;
+}
+

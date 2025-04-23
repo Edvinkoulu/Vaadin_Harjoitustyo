@@ -1,0 +1,17 @@
+/* mainLayout.css */
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.header-style {
+    background-color: #e0f7fa;
+    padding: 20px;
+    width: 100%;
+}
+
+
+.content-area {
+   padding: 20px;
+}
